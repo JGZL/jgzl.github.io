@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>架构之路·李海峰的个人博客</title>
+  
+  <subtitle>李海峰的个人博客</subtitle>
+  <link href="https://jgzl.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://jgzl.github.io/"/>
+  <updated>2020-12-13T11:00:35.000Z</updated>
+  <id>https://jgzl.github.io/</id>
+  
+  <author>
+    <name>李海峰</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>如何书写单元测试</title>
+    <link href="https://jgzl.github.io/2020/12/13/ru-he-shu-xie-dan-yuan-ce-shi/"/>
+    <id>https://jgzl.github.io/2020/12/13/ru-he-shu-xie-dan-yuan-ce-shi/</id>
+    <published>2020-12-13T11:00:35.000Z</published>
+    <updated>2020-12-13T11:00:35.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;如何书写单元测试&quot;&gt;&lt;a href=&quot;#如何书写单元测试&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="articles" scheme="https://jgzl.github.io/categories/articles/"/>
+    
+    
+    <category term="Test" scheme="https://jgzl.github.io/tags/Test/"/>
+    
+    <category term="TestContainer" scheme="https://jgzl.github.io/tags/TestContainer/"/>
+    
+    <category term="TestNG" scheme="https://jgzl.github.io/tags/TestNG/"/>
+    
+    <category term="Java" scheme="https://jgzl.github.io/tags/Java/"/>
+    
+    <category term="SpringBoot" scheme="https://jgzl.github.io/tags/SpringBoot/"/>
+    
+    <category term="Spring" scheme="https://jgzl.github.io/tags/Spring/"/>
+    
+  </entry>
+  
+</feed>
